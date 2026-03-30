@@ -1,2 +1,0 @@
-# cubism
-Cubism
